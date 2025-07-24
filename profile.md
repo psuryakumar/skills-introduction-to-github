@@ -1,2 +1,1 @@
-## Welcome to my Github profile ##
-Prashant
+Welcome to my GitHub profile!
